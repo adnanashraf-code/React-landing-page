@@ -22,7 +22,7 @@ export default function Hero() {
         </div>
 
         <h1>Adnan Ashraf</h1>
-        <p className="sub">— It's D.Nova a design wizard</p>
+        <p className="sub">— Passionate about building clean and efficient web apps</p>
 
         <p className="scroll">Scroll down ↓</p>
       </div>
